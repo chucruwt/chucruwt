@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=260&section=header&text=SEU%20NOME&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=%3E_%20Full%20Stack%20Developer%20%7C%20Estudante%20no%20IFC&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=260&section=header&text=PIETRO%20DAROLT&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=%3E_%20Full%20Stack%20Developer%20%7C%20Estudante%20no%20IFC&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;%3E+PHP+%7C+JavaScript+%7C+Go+%7C+Python;%3E+Estudante+no+Instituto+Federal+Catarinense;%3E+Construindo+o+futuro%2C+uma+linha+por+vez+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITAS&color=00f5ff&style=for-the-badge&labelColor=0f0c29" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=chucruwt&label=VISITAS&color=00f5ff&style=for-the-badge&labelColor=0f0c29" alt="views"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=00f5ff" alt="status"/>
 <img src="https://img.shields.io/badge/IFC-Instituto%20Federal%20Catarinense-0f0c29?style=for-the-badge&labelColor=302b63&logo=graduation-cap&logoColor=00f5ff" alt="ifc"/>
 
@@ -67,7 +67,6 @@ const dev = {
 
 </div>
 
-> Ajuste os ícones conforme o que você realmente usa. Lista de ícones disponíveis: [skillicons.dev](https://skillicons.dev)
 
 ---
 
@@ -75,16 +74,16 @@ const dev = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" alt="top langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chucruwt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chucruwt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" alt="top langs"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=chucruwt&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" alt="streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chucruwt&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
 
 </div>
 
@@ -94,7 +93,7 @@ const dev = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0f0c29&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chucruwt&bg_color=0f0c29&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff&hide_border=true" alt="activity graph" width="100%"/>
 
 </div>
 
@@ -113,7 +112,7 @@ const dev = {
 
 ```bash
 [2024] 🎓 Ingresso no Instituto Federal Catarinense (IFC)
-[ now] 📚 Cursando [SEU CURSO] — aprendendo, construindo e quebrando coisas
+[ now] 📚 Cursando Informática para Internet — aprendendo, construindo e quebrando coisas
 [next] 🚀 Projetos reais, estágio e muita linha de código
 ```
 
@@ -132,11 +131,11 @@ const dev = {
 <div align="center">
 
 <!-- Troque os nomes dos repositórios pelos seus. -->
-<a href="https://github.com/SEU-USUARIO/PROJETO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chucruwt&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 1"/>
+<a href="https://github.com/chucruwt/crypto-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chucruwt&repo=Crypto-Tracker&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 1"/>
 </a>
-<a href="https://github.com/SEU-USUARIO/PROJETO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chucruwt&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 2"/>
+<a href="https://github.com/chucruwt/TeamGestor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chucruwt&repo=TeamGestor&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 2"/>
 </a>
 
 </div>
@@ -146,11 +145,9 @@ const dev = {
 ## `> ping --contato`
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=302b63" alt="linkedin"/></a>
-<a href="mailto:SEU@EMAIL.COM"><img src="https://img.shields.io/badge/E--mail-0f0c29?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=302b63" alt="email"/></a>
-<a href="https://instagram.com/SEU-INSTA"><img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=00f5ff&labelColor=302b63" alt="instagram"/></a>
-<a href="https://SEU-SITE.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=00f5ff&labelColor=302b63" alt="portfolio"/></a>
+  
+<a href="mailto:daroltpietro336@gmail.com"><img src="https://img.shields.io/badge/E--mail-0f0c29?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=302b63" alt="email"/></a>
+<a href="https://instagram.com/_pietrosdarolt"><img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=00f5ff&labelColor=302b63" alt="instagram"/></a>
 
 <br/><br/>
 
