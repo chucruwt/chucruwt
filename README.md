@@ -89,13 +89,6 @@ const dev = {
 
 ---
 
-## `> git log --activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chucruwt&bg_color=0f0c29&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff&hide_border=true" alt="activity graph" width="100%"/>
-
-</div>
 
 <!--
   🐍 COBRINHA (opcional): para ativar, crie o workflow do Platane/snk no repositório
