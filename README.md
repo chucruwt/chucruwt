@@ -99,8 +99,6 @@ const dev = {
 </div>
 -->
 
----
-
 ## `> cat education.log`
 
 ```bash
