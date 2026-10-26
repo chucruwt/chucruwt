@@ -30,9 +30,9 @@
 
 ```ts
 const dev = {
-  nome:       "SEU NOME",
+  nome:       "Pietro Darolt",
   papel:      "Desenvolvedor Full Stack em formação",
-  estudo:     "[SEU CURSO] @ Instituto Federal Catarinense (IFC)",
+  estudo:     "Informática para Internet @ Instituto Federal Catarinense (IFC)",
   base:       "Santa Catarina, Brasil 🇧🇷",
   linguagens: ["PHP", "JavaScript", "Go", "Python"],
   foco:       ["Back-end", "APIs", "Automação", "Web moderna"],
@@ -121,7 +121,7 @@ const dev = {
 
 | 🏫 Instituição | 📖 Curso | 🎯 Objetivo |
 |:---:|:---:|:---:|
-| **Instituto Federal Catarinense** | [SEU CURSO] | Tornar-me dev full stack |
+| **Instituto Federal Catarinense** | Informática para Internet | Tornar-me dev full stack |
 
 </div>
 
@@ -133,10 +133,10 @@ const dev = {
 
 <!-- Troque os nomes dos repositórios pelos seus. -->
 <a href="https://github.com/SEU-USUARIO/PROJETO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chucruwt&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 1"/>
 </a>
 <a href="https://github.com/SEU-USUARIO/PROJETO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chucruwt&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff" alt="projeto 2"/>
 </a>
 
 </div>
